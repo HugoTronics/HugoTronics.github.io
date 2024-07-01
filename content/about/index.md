@@ -27,3 +27,4 @@ I'm Hugo, a French hobbyist passionate about RF electronics, 3D design, and 3D p
 
 On this site, I share my experiences and projects related to RF electronics, 3D design, and 3D printing. Whether you're an enthusiast or just curious about these areas, I invite you to join me as I delve into these exciting fields. I hope you find the insights and projects shared here both useful and inspiring!
 
+![IMG20220404170008](https://github.com/HugoTronics/HugoTronics.github.io/assets/172842393/aa39fe95-3dc3-4987-b806-af416b29807c)
