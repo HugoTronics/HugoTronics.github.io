@@ -1,0 +1,60 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "HugoTronics"
+#logo = "img/dark.png"
+description = "Hi, I'm Hugo, a French hobbyist passionate about RF electronics, 3D design, and 3D printing. I enjoy exploring the world of radio frequencies, experimenting with circuits, and turning ideas into tangible objects with 3D printing. Welcome to my blog where I share my projects and discoveries!"
+copyright = "© 2024 HugoTronics"
+
+dateFormat = "2 January 2006"
+
+[author]
+    name = "HugoTronics"
+    image = "img/author.png"
+    headline = "French hobbyist passionate about RF electronics, 3D design, and 3D printing."
+    bio = "Hi, I'm Hugo, a French hobbyist passionate about RF electronics, 3D design, and 3D printing. I enjoy exploring the world of radio frequencies, experimenting with circuits, and turning ideas into tangible objects with 3D printing. Welcome to my blog where I share my projects and discoveries!"
+    links = [    
+    { email = "mailto:corsahu@gmail.com" },
+    { telegram = "https://t.me/Hugo_Tronics" },
+    { github = "https://github.com/HugoTronics" },
+#    { linkedin = "https://linkedin.com/in/adamhlt" },
+#    { stack-overflow = "https://stackoverflow.com/users/12888292/adam-henault" },
+#     { dribbble = "https://dribbble.com/username" },
+#     { facebook = "https://facebook.com/username" },
+#     { flickr = "https://www.flickr.com/photos/username/" },
+#     { foursquare = "https://foursquare.com/username" },
+#     { github = "https://github.com/username" },
+#     { gitlab = "https://gitlab.com/username" },
+#     { google = "https://www.google.com/" },
+#     { hashnode = "https://username.hashnode.dev" },
+#     { instagram = "https://instagram.com/username" },
+#     { keybase = "https://keybase.io/username" },
+#     { kickstarter = "https://www.kickstarter.com/profile/username" },
+#     { lastfm = "https://lastfm.com/user/username" },
+#     { linkedin = "https://linkedin.com/in/username" },
+#     { mastodon = "https://mastodon.instance/@username" },
+#     { medium = "https://medium.com/username" },
+#     { microsoft = "https://www.microsoft.com/" },
+#     { orcid = "https://orcid.org/userid" },
+#     { patreon = "https://www.patreon.com/username" },
+#     { pinterest = "https://pinterest.com/username" },
+#     { reddit = "https://reddit.com/user/username" },
+#     { researchgate = "https://www.researchgate.net/profile/username" },
+#     { slack = "https://workspace.url/team/userid" },
+#     { snapchat = "https://snapchat.com/add/username" },
+#     { soundcloud = "https://soundcloud.com/username" },
+#     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+#     { steam = "https://steamcommunity.com/profiles/userid" },
+#     { telegram = "https://t.me/username" },
+#     { tiktok = "https://tiktok.com/@username" },
+#     { tumblr = "https://username.tumblr.com" },
+#     { twitch = "https://twitch.tv/username" },
+#     { twitter = "https://twitter.com/username" },
+#     { whatsapp = "https://wa.me/phone-number" },
+#     { youtube = "https://youtube.com/username" },
+#     { ko-fi = "https://ko-fi.com/username" },
+    ]
