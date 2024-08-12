@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
     name = "Hugo L."
-    image = "img/author.png"
+    image = "img/author.jpg"
     headline = "French hobbyist passionate about RF electronics, 3D design, and 3D printing."
     bio = "Hi, I'm Hugo, a French hobbyist passionate about RF electronics, 3D design, and 3D printing. I enjoy exploring the world of radio frequencies, experimenting with circuits, and turning ideas into tangible objects with 3D printing. Welcome to my blog where I share my projects and discoveries!"
     links = [    
