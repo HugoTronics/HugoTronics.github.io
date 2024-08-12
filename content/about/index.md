@@ -19,7 +19,7 @@ showLikes: false
 showAuthor: true
 layoutBackgroundHeaderSpace: false
 
-summary: "Hi, I'm Adam, a French Embedded System Security student, and here is my blog where I write content about : Reverse Engineering, Game Hacking, Hardware, Windows Internal.."
+summary: "I'm Hugo, a French hobbyist passionate about RF electronics, 3D design, and 3D printing."
 
 ---
 
