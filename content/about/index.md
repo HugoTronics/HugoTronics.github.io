@@ -19,7 +19,7 @@ showLikes: false
 showAuthor: true
 layoutBackgroundHeaderSpace: false
 
-summary: "Hi, I'm Adam, a French Embedded System Security student, and here is my blog where I write content about : Reverse Engineering, Game Hacking, Hardware, Windows Internal..."
+summary: "Hi, I'm Adam, a French Embedded System Security student, and here is my blog where I write content about : Reverse Engineering, Game Hacking, Hardware, Windows Internal.."
 
 ---
 
