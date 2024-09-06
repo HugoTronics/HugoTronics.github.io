@@ -1,5 +1,5 @@
 ---
-title: "Android Auto Crankshaft Project: My DIY Installation with Raspberry Pi 3"
+title: "Android Auto Crankshaft Project: DIY Installation with Raspberry Pi 3"
 date: 2024-09-06T15:54:41+02:00
 draft: false
 tags: [Raspberry Pi, DIY Projects, Car Technology]
