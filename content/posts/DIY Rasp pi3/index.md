@@ -10,6 +10,8 @@ summary: "Transform your car with a DIY Android Auto system using Raspberry Pi 3
 
 Hey everyone! Today, I’m sharing how I turned my Raspberry Pi 3 into an Android Auto system for my car. The idea was to create a practical, aesthetic, and affordable device without altering my vehicle’s original interior. After some research and a bit of tinkering, I managed to install a touchscreen and a 3D-printed mount without spending a fortune. Here’s a step-by-step guide, from choosing the hardware to setting up the software.
 
+![voiture](https://github.com/user-attachments/assets/1720a88b-99fd-4172-b98e-4aa1071cd4bd "The complete setup of the Raspberry Pi 3 with the 7-inch touchscreen installed in the car, showing how it integrates seamlessly into the vehicle’s interior.")
+
 ## Equipment and Where to Find It at Low Cost
 
 For this project, I started by finding a used Raspberry Pi 3 on Leboncoin for about 25 euros. This mini-computer is perfect for this kind of setup with its Wi-Fi, Bluetooth capabilities, and USB ports. Next, I found the official 7-inch Raspberry Pi touchscreen for 35 euros. This screen is ideal for in-car use: it easily connects via a ribbon cable to the Pi’s DSI port and is powered directly through the GPIO pins, minimizing cable clutter.
