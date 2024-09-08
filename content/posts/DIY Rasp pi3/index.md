@@ -32,7 +32,7 @@ For power, a micro-USB cable connects to a 12V/USB adapter plugged into the ciga
 
 Once all the hardware was gathered, it was time to turn the Raspberry Pi into an Android Auto system. I chose Crankshaft, a distribution specifically designed for Raspberry Pi that transforms it into an Android Auto interface as soon as it boots up.
 
-I downloaded Crankshaft from their [official site](https://crankshaft.io) and used [Balena Etcher](https://www.balena.io/etcher/) to flash the image onto the Raspberry Pi’s microSD card. This software is straightforward and effective: simply select the downloaded image and flash it directly onto the microSD card. After inserting the card into the Raspberry Pi, Crankshaft automatically starts and configures the system to recognize the phone when connected.
+I downloaded Crankshaft from their [official site](https://getcrankshaft.com/) and used [Balena Etcher](https://www.balena.io/etcher/) to flash the image onto the Raspberry Pi’s microSD card. This software is straightforward and effective: simply select the downloaded image and flash it directly onto the microSD card. After inserting the card into the Raspberry Pi, Crankshaft automatically starts and configures the system to recognize the phone when connected.
 ![balena etcher   crankshaft](https://github.com/user-attachments/assets/62fb005e-b42c-4571-8244-2efabd5d81e6 "Download Crankshaft and Etcher")
 
 ![SD FLASH](https://github.com/user-attachments/assets/16ab3fd6-6311-4707-9c74-d464419fcb41 "Installing Crankshaft on the Raspberry Pi using Balena Etcher, a straightforward process that quickly sets up the system for Android Auto.")
@@ -75,8 +75,8 @@ While exploring YouTube, I discovered that other enthusiasts have created even m
 
 **YouTube Channels to Explore:**
 
-- [Everlanders](https://www.youtube.com/channel/UC7h8-jG9WQpu0y3J8v7ZB1g)
-- [DB Tech](https://www.youtube.com/channel/UC57G5_p-5A2vC9O5a7Rt2sw)
+- [Everlanders](https://www.youtube.com/c/Everlanders)
+- [DB Tech](https://www.youtube.com/channel/UCVy16RS5eEDh8anP8j94G2A)
 
 ## Conclusion: An Accessible and Customizable Project
 
@@ -84,7 +84,7 @@ Transforming a Raspberry Pi into an Android Auto system is an accessible, flexib
 
 ## Useful Links
 
-- [Crankshaft Official Site](https://crankshaft.io)
+- [Crankshaft Official Site](https://getcrankshaft.com/)
 - [Balena Etcher](https://www.balena.io/etcher/)
-- [Everlanders YouTube Channel](https://www.youtube.com/channel/UC7h8-jG9WQpu0y3J8v7ZB1g)
-- [DB Tech YouTube Channel](https://www.youtube.com/channel/UC57G5_p-5A2vC9O5a7Rt2sw)
+- [Everlanders YouTube Channel](https://www.youtube.com/c/Everlanders)
+- [DB Tech YouTube Channel](https://www.youtube.com/channel/UCVy16RS5eEDh8anP8j94G2A)
