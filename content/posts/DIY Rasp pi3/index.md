@@ -1,12 +1,12 @@
 ---
-title: "Android Auto Crankshaft Project: DIY Installation with Raspberry Pi 3"
+title: "Android Auto Project: DIY Installation with Raspberry Pi 3"
 date: 2024-09-06T15:54:41+02:00
 draft: false
 tags: [Raspberry Pi, DIY Projects, Car Technology]
 summary: "Transform your car with a DIY Android Auto system using Raspberry Pi 3. Discover how to create a functional, aesthetic setup without breaking the bank."
 ---
 
-## Android Auto Crankshaft Project: My DIY Installation with Raspberry Pi 3
+## Android Auto Project: My DIY Installation with Raspberry Pi 3
 
 Hey everyone! Today, I’m sharing how I turned my Raspberry Pi 3 into an Android Auto system for my car. The idea was to create a practical, aesthetic, and affordable device without altering my vehicle’s original interior. After some research and a bit of tinkering, I managed to install a touchscreen and a 3D-printed mount without spending a fortune. Here’s a step-by-step guide, from choosing the hardware to setting up the software.
 
