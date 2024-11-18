@@ -54,6 +54,8 @@ Using an online calculator (**Everything RF**), the optimized dimensions are:
 - Microstrip line width: **3.1 mm**.
 - Feed point: **7.7 mm**.
 
+![patch antenna 2.4 ghz](https://github.com/user-attachments/assets/3ad1b21b-a733-4528-9923-a2f6367d259b "calculated patch dimensions used for the design")
+
 ## Step 2: Simulation with CST Studio
 
 ### Why Use CST Studio?
