@@ -33,6 +33,8 @@ A patch antenna consists of three main components:
 2. A **dielectric substrate** (FR4 in this case) that separates the patch from the ground plane.
 3. A **ground plane** that directs the radiation.
 
+![double antenna](https://github.com/user-attachments/assets/4f27e270-db87-4794-860c-d75a7bf3b09e "comparison of a Wikipedia patch antenna image (left) and a custom-built patch antenna designed and fabricated by me (right)")
+
 This design is ideal for Wi-Fi because it provides:
 - Good adaptation to a specific frequency (here **2.4 GHz**).
 - Moderate directivity for targeting the area around your router.
