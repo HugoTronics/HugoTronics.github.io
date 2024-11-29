@@ -66,11 +66,19 @@ I used **CST Studio Suite**, a powerful electromagnetic simulation tool, to vali
 - Analysis of key parameters like **S11** and **VSWR**.
 - Visualization of radiation patterns and efficiency in the target frequency range.
 
+![cst wifi patch design](https://github.com/user-attachments/assets/58754c96-c20b-4f78-be8b-43b97db409dc "antenna design in CST Studio")
+
+
 ### Key Parameters
 - **S11 (Reflection Coefficient)**: Measures the power reflected by the antenna. A value below **-10 dB** ensures over 90% of the power is transmitted, critical for good adaptation.
 - **VSWR (Standing Wave Ratio)**: Indicates how efficiently power is transmitted. A VSWR close to **1** is ideal; a value below **2** is acceptable for Wi-Fi applications.
 
 ### Simulation Results
+
+![s parameter + swr](https://github.com/user-attachments/assets/645183ef-bca9-46cc-97fe-3bc0f9626d37 "S11 Parameter and VSWR")
+
+![farfield directivity + farfield 3d 2 6GHZ](https://github.com/user-attachments/assets/379ced92-0a56-4c98-8bd0-28e02051fae1 "Farfield and directivity of the antenna")
+
 - **S11**: Minima at **-12 dB** at 2.4 GHz, confirming proper adaptation.
 - **VSWR**: Stable at **1.9**, sufficient for effective transmission.
 - **Radiation patterns**: Moderate directivity with a **45° coverage angle**, ideal for domestic use.
@@ -80,15 +88,26 @@ I used **CST Studio Suite**, a powerful electromagnetic simulation tool, to vali
 ### Etching the Patch
 With validated dimensions, I etched the antenna on an **FR4 substrate** using a **CNC LPKF** machine. The DXF file generated in CST Studio was imported directly into the CNC software, ensuring precise fabrication.
 
+![cnc drill gif](https://github.com/user-attachments/assets/451c2532-e962-4d03-8beb-56afa2d6739f "CNC engraving a patch antenna design on FR4")
+
 ### Designing the Protective Box
 To protect the antenna and facilitate installation, I designed a box in **SolidWorks** and printed it in **PETG** using a **Bambu Lab 3D printer**. PETG is durable and resistant to temperature variations, making it ideal for this application.
+
+![antenna box](https://github.com/user-attachments/assets/42ef3064-958c-419b-848c-95f2a5932744 "Design of the box in Solidwork")
+
+![print bambu lab](https://github.com/user-attachments/assets/33621b8e-d0fd-4920-ad2d-ed3ab73d8ab4 "Printing the box")
 
 ## Step 4: Real-World Testing
 
 ### Testing with a VNA
+
+![IMG20241107164306](https://github.com/user-attachments/assets/15336e6f-919d-4298-aea2-a7c780db5486)
+
 A **vector network analyzer (VNA)** was used to evaluate the antenna’s performance:
 - **S11**: Measured at **-12 dB** at 2.4 GHz, indicating proper adaptation.
 - **VSWR**: Measured at **1.9**, confirming efficient power transmission.
+
+![ANT patch wifi 2-3GHz](https://github.com/user-attachments/assets/9d139cc8-34d2-4158-8edc-a28b0c59f624 "VNA S11 result")
 
 ### Network Testing with Acrylic Suite
 To assess the antenna’s impact on network performance, I tested the connection before and after installing the antenna:
