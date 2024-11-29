@@ -4,8 +4,7 @@ date: 2024-11-17T15:54:41+02:00
 draft: false
 tags: [Patch Antenna, Wi-Fi, DIY, CST Simulation, CNC, 3D Printing]
 summary: "Learn how to design, fabricate, and test a Wi-Fi patch antenna to significantly improve the signal quality of a card without an antenna."
-series: ["Wi-Fi Antenna Projects"]
-series_order: 1
+
 ---
 
 {{< alert cardColor="#6a89cc" icon="circle-info" iconColor="white" textColor="white">}}
@@ -101,7 +100,7 @@ To protect the antenna and facilitate installation, I designed a box in **SolidW
 
 ### Testing with a VNA
 
-![IMG20241107164306](https://github.com/user-attachments/assets/15336e6f-919d-4298-aea2-a7c780db5486)
+![IMG20241107164258](https://github.com/user-attachments/assets/ac704a26-89b2-427c-aedc-9e261a42d7f5)
 
 A **vector network analyzer (VNA)** was used to evaluate the antenna’s performance:
 - **S11**: Measured at **-12 dB** at 2.4 GHz, indicating proper adaptation.
@@ -110,9 +109,12 @@ A **vector network analyzer (VNA)** was used to evaluate the antenna’s perform
 ![ANT patch wifi 2-3GHz](https://github.com/user-attachments/assets/9d139cc8-34d2-4158-8edc-a28b0c59f624 "VNA S11 result")
 
 ### Network Testing with Acrylic Suite
+![RSO TEST](https://github.com/user-attachments/assets/2491e64b-1c14-4ad1-93db-134a8c985760)
 To assess the antenna’s impact on network performance, I tested the connection before and after installing the antenna:
 - **Without antenna**: RSSI of **-74 dBm**, unstable signal, limited to 144 Mbps.
 - **With antenna**: RSSI improved to **-49 dBm**, stable connection, increased speed to 542 Mbps.
+
+![AVG NETWORK QUALITY](https://github.com/user-attachments/assets/8d700f4d-7b73-45bb-bf8b-0b600d1d7083 "A comparison image showing network quality metrics without and with the antenna")
 
 These results demonstrate that the antenna significantly improves both stability and speed.
 
@@ -120,13 +122,16 @@ These results demonstrate that the antenna significantly improves both stability
 
 The current monopolar design is limited to the **2.4 GHz** band, which is sufficient for basic Wi-Fi but does not cover the advantages of the **5 GHz** band. A future version could integrate dual-band coverage and utilize the two ports on the Wi-Fi card for **MIMO**, enhancing both stability and speed.
 
+![antenna vna + antenna in the box with arduino uno](https://github.com/user-attachments/assets/1e201b4d-a57b-4bff-8f6a-29cb6ef7c4b6 "A side-by-side comparison of two photos: one showing the antenna without its enclosure and another with the antenna in its enclosure, alongside an Arduino for scale.")
+
+
 ## Conclusion
 
 This project demonstrates that building a high-performance Wi-Fi antenna at a low cost is entirely feasible.
 
 Using modern tools like **CST Studio**, a **CNC**, and a **3D printer**, this patch antenna has significantly improved network quality. With future adjustments, it could be adapted for dual-band or IoT applications, making it even more versatile.
 
-If you have questions or suggestions, feel free to share them in the comments! 😊
+If you have questions or suggestions, feel free to send a mail ! 😊
 
 ## Tools and References
 
